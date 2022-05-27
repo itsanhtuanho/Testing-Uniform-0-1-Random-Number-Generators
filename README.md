@@ -10,7 +10,7 @@ For this project, I will conduct some empirical tests to assess how closely the 
 
 I have selected 3 RNGs: **RANDU, Desert Island, and L'ecuyer Combined Generator**, and will assess criteria (1) for each of them. After that, I will discuss criteria (2) and (3). But first let's import all the necessary libraries needed to conduct the relevant analysis.
 
-# Required Libraries/Modules
+## Required Libraries/Modules
 1. numpy
 2. pandas
 3. matplotlib.pyplot
