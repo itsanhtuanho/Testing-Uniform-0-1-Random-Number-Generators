@@ -18,3 +18,7 @@ I have selected 3 RNGs: **RANDU, Desert Island, and L'ecuyer Combined Generator*
 5. time
 6. scipy.stats
 7. statsmodels.sandbox.stats.runs.runstest_1samp
+
+## References
+ISYE OMSA-6644: Simulation and Modeling for Engineering and Science (Dr. David Goldsman)
+Law, A. M., Simulation Modeling and Analysis, 5th edition, McGraw-Hill Education, New York, 2015.
